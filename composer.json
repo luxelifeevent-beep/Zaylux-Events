@@ -1,5 +1,5 @@
 {
-    "name": "classiebit/eventmie",
+    "name": "Zaylux Events",
     "version": "2.0.0",
     "description": "Run your own Events business with Eventmie Pro. Use it as event ticket selling website or event management platform on your own domain.",
     "keywords": [
@@ -19,15 +19,15 @@
         "vuejs"
     ],
     "license": "MIT",
-    "homepage": "https://classiebit.com/eventmie",
+    "homepage": "https://zayluxevents.com/eventmie",
     "support": {
         "issues": "https://github.com/classiebit/eventmie/issues",
         "source": "https://github.com/classiebit/eventmie"
     },
     "authors": [
         {
-            "name": "Classiebit",
-            "email": "info@classiebit.com"
+            "name": "Zaylux Events",
+            "email": "zayluxevents@gmail.com"
         }
     ],
     "require": {
